@@ -43,4 +43,5 @@
 <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
   <property name="basePackage" value="com.room.mybatis.mappers" />
 </bean>
+
 </beans>
